@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o Luiz CarneiroI’m @luizcarneiro90
 - 👀 Tenho interesse em aprender cada vez mais sobre desenvolvimento Front-end
-- 🌱 Eu estou estudando HTML 5, CSS3, Java Script, C#, React...
+- 🌱 Eu estou estudando HTML 5, CSS3, JS, TS, C#, Angular...
 - 📫 E-mail: luizcarneiro90@gmail.com
 
 <!---
